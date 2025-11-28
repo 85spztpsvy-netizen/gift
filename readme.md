@@ -1,4 +1,4 @@
-🎁 Gift Surprise — Interactive Animated Gift Box
+🎁 Gift — Interactive Animated Gift Box
 A playful and beautifully-animated gift box interaction built with HTML, CSS, and vanilla JavaScript.
 When clicked, the box opens with particle effects, floating butterflies, and a customizable surprise message.
 Perfect for personal surprises, small web greetings, or creative web projects.
